@@ -1,2 +1,2 @@
 # avocadoremi
-Now is the time of oss class.
+Now is the time of OSS class.
